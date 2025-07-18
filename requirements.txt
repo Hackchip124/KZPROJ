@@ -1,11 +1,4 @@
-streamlit 
-sqlite3
-bcrypt
-datetime
-os
-pathlib
-Path
+streamlit
 pandas
-secrets
-string
-calendar
+bcrypt
+python-dotenv
